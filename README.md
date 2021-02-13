@@ -1,2 +1,2 @@
 # nitroless
-redirect to new nitroless site
+new link: https://nitroless.github.io/web/
