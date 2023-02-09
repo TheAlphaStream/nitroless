@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://github.com/TheAlphaStream/nitroless/blob/main/nitroless_v2_icon_mac_512x.png?raw=true">
+    <img src="https://github.com/TheAlphaStream/nitroless/blob/main/nitroless_v2_icon_mac_512x.png?raw=true" alt="Logo" width="100" height="100">
+  </a>
   <p align="center">
     Thanks for using and supporting the Nitroless project! 
   </p>
