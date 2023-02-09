@@ -1,6 +1,4 @@
 <div align="center">
-  <h3 align="center">Nitroless</h3>
-
   <p align="center">
     Thanks for using and supporting the Nitroless project! It was nice while it lasted
     but unfortunately we had to shut it down due legal reasons with Discord.
